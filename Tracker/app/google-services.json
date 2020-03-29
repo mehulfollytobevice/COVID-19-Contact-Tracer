@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "Your Detail",
+    "firebase_url": "Your Detail",
+    "project_id": "Your Detail",
+    "storage_bucket": "Your Detail"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "Your Detail",
+        "android_client_info": {
+          "package_name": "com.tasks.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "Your Detail",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tasks.tracker",
+            "certificate_hash": "Your Detail"
+          }
+        },
+        {
+          "client_id": "Your Detail",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Your Detail"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "Your Detail",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

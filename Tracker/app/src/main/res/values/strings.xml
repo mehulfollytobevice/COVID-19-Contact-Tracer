@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tracker</string>
+    <string name="enter_email">Enter your e-mail address</string>
+    <string name="enter_your_name_here">Enter your name here</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="create_details">Create details</string>
+    <string name="please_enter_your_details">Please  Enter  your  details</string>
+    <string name="connect_peer_button">Connect</string>
+    <string name="disconnect_peer_button">disconnect</string>
+    <string name="get_file_button">get file</string>
+    <string name="discover">Start</string>
+    <string name="connect">Connect</string>
+    <string name="connection_status">I am Invisible</string>
+    <string name="turn_wifi_on">Turn Wifi On</string>
+    <string name="error_missing_permissions">Cannot start without required permissions</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="enter_details">Please enter your details to login and begin contributing to contain the current outbreak.If you do not have an account then click on CREATE ACCOUNT and create a new account.</string>
+    <string name="create_account">Enter Your Details To Create An Account</string>
+    <string name="almost_there_please_enter_your_phone_number_and_your_name">Almost there please enter your phone number and your name</string>
+    <string name="instructions">Tap on START to enable services when you go in public spaces.This will allow the device to detect nearby devices. In the case where you contract COVID-19 you can help the health ministry to trace potential carriers and safely contain the outbreak.You can TAP on STOP as soon as you come back home.</string>
+    <string name="stop">Stop</string>
+    <string name="action">Enter the phone number of the person whose interactions you want to trace.Please do not misuse this application , as legal action can be taken against you.</string>
+</resources>
