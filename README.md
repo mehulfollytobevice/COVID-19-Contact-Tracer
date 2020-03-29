@@ -60,7 +60,7 @@ The current outbreak of the Novel Crorona virus(COVID-19) also comes under the c
  <br>
  -https://www.moneycontrol.com/news/technology/coronavirus-pandemic-govt-may-launch-a-covid-tracker-app-soon-5074281.html
  <br>
- https://www.thelocal.se/20200306/how-is-sweden-tracking-down-suspected-coronavirus-cases
+ -https://www.thelocal.se/20200306/how-is-sweden-tracking-down-suspected-coronavirus-cases
  <br>
  -https://www.who.int/csr/disease/ebola/training/contact-tracing/en/
 <br>
